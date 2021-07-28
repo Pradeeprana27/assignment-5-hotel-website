@@ -155,7 +155,7 @@ body {
 }
 
 #special-tile {
-    background: url('/images/specials-tile.jpg');
+    background: url('./images/specials-tile.jpg');
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
